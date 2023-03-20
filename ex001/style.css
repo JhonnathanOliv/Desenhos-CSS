@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: red;
+    width: 100px;
+    right: 100px;
+    margin: auto;
+
+}
